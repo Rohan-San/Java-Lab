@@ -1,7 +1,8 @@
 ## Java Lab Sem 5
 
 Repository to understand the Application Development using Java Laboratory.<br>
-Program files contain the ***code as well as the tested outputs***.
+Program files contain the ***code as well as the tested outputs***.<br>
+Refer [viva.md](viva.md) for possible viva questions!
 
 ## Questions
 
