@@ -1,8 +1,8 @@
 Let's see the steps, you need to follow to create the first servlet example.<br>
-o	Create a Dynamic web project<br>
-o	create a servlet<br>
-o	add servlet-api.jar file<br>
-o	Run the servlet<br>
+-	Create a Dynamic web project<br>
+-	create a servlet<br>
+-	add servlet-api.jar file<br>
+-	Run the servlet<br>
 1) *Create the dynamic web project:*
 For creating a dynamic web project 
 click on <br> File Menu -> New -> Dynamic web project -> write your project name e.g. first -> Finish.
