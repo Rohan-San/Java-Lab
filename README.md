@@ -36,9 +36,9 @@ Code Reference: [Davin's repository](https://github.com/davinasd/jl)
 
 10. Write a java program that connects to a database using JDBC and does add deletes, modify and retrieve operations.
 
-11. Write a java servlet program which displays cookie id.
+11. A web application that takes name and age from an HTML page. If the age is less than 18, it should send a page with “Hello [name], you are not authorized to visit the site” message, where [name] should be replaced with the entered name. Otherwise it should send “Welcome to this site” message.
 
-12. Create a registration form using JSP, servelet, JDBC, MySQL.
+12. A web application that takes a name as input and on submitting, it shows a hello <name> page where name is taken from the request. It shows the start time at the right top corner of the page and provides a logout button. On clicking this button, it should show a logout page with Thank You [name] message with the duration of usage (hint: Use session to store name and time) USING JSP.
 
 ## Dependency Management
 
