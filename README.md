@@ -3,6 +3,7 @@
 Repository to understand the Application Development using Java Laboratory.<br>
 Program files contain the ***code as well as the tested outputs***.<br>
 Refer [viva.md](viva.md) for possible viva questions!<br>
+Refer [servlet-jsp.md](servlet-jsp.md) for basic instructions for the servlet and jsp programs<br>
 Code Reference: [Davin's repository](https://github.com/davinasd/jl)
 
 ## Questions
