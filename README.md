@@ -1,6 +1,7 @@
 ## Java Lab Sem 5
 
-Repository to maintain Application Development using Java Laboratory code
+Repository to understand the Application Development using Java Laboratory.<br>
+Program files contain the ***code as well as the tested outputs***.
 
 ## Questions
 
