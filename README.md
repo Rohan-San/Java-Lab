@@ -9,7 +9,7 @@ Code Reference: [Davin's repository](https://github.com/davinasd/jl)
 ## Questions
 
 1. Write a java program:
-  > - To calculate and display the area of a rectangle.
+  > - To calculate and display the roots of Quadratic Equation.
   > - To multiply two arrays and display the result
   > - To sort the elements in ascending and descending order using bubble sort algorithm.
 
