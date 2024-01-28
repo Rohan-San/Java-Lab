@@ -33,7 +33,7 @@ Code Reference: [Davin's repository](https://github.com/davinasd/jl)
 
 8. Write a java program to read two positive integers and perform the division operation on them and display the result if a user enters a positive integer and non-zero denominator. Else, If the input is negative or the denominator is zero, generate negative number input and divide by zero exception to handle the scenario.
 
-9. Write a java program to illustrate the concept of packages and interfaces in java.
+9. Write a java program to define an interface 'compute' with an abstract method convert, define two classes which implements the compute interface and extend the convert method to convert giga bytes to bytes and Euro to rupees. Declare objects for both the classes and demonstrate the conversion from giga bytes to bytes and euro to rupees.
 
 10. Write a java program that connects to a database using JDBC and does add deletes, modify and retrieve operations.
 
