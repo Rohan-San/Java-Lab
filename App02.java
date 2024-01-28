@@ -32,7 +32,7 @@ public class App02 {
         double max = 0;
         int index = 0;
         for (int i = 0; i < num; i++) {
-            if (employees[i].dept.compareTo("purchase") == 0 & employees[i].des.compareTo("manager") == 0) {
+            if (employees[i].dept.compareTo("purchase") == 0 && employees[i].des.compareTo("manager") == 0) {
                 if (employees[i].sal > max) {
                     max = employees[i].sal;
                     index = i;
